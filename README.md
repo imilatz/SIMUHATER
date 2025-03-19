@@ -216,9 +216,7 @@ python flight_stick_reader.py
 ### Microsoft Flight Simulator
 1. Select "MSFS" profile
 2. In MSFS controls:
-   - Map throttle to Right Trigger
-   - Map prop to Right Stick Y
-   - Map mixture to Left Stick Y
+Set to VJoy
 
 [Add similar sections for other simulators...]
 
