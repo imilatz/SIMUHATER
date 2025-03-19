@@ -1,0 +1,128 @@
+{
+    "joystick_com_port": "COM18",
+    "joystick_baud_rate": 115200,
+    "control_panel_com_port": "COM12",
+    "joystick_calibration": [
+        {
+            "name": "X Axis",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 4095,
+            "center": 2048,
+            "deadzone": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "trim_speed": 1.0,
+            "calibrated_min": 0,
+            "calibrated_max": 4095,
+            "calibrated_center": 2048
+        },
+        {
+            "name": "Y Axis",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 4095,
+            "center": 2048,
+            "deadzone": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "trim_speed": 1.0,
+            "calibrated_min": 0,
+            "calibrated_max": 4095,
+            "calibrated_center": 2048
+        }
+    ],
+    "control_panel_config": [
+        {
+            "name": "Pot 1",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        },
+        {
+            "name": "Pot 2",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        },
+        {
+            "name": "Pot 3",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        },
+        {
+            "name": "Pot 4",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        },
+        {
+            "name": "Pot 5",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        },
+        {
+            "name": "Pot 6",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        },
+        {
+            "name": "Pot 7",
+            "type": "Axis",
+            "invert": false,
+            "min": 0,
+            "max": 100,
+            "threshold": 50,
+            "vjoy_axis": null,
+            "button_id": null,
+            "calibrated_min": 0,
+            "calibrated_max": 100
+        }
+    ],
+    "current_profile": "Microsoft Flight Simulator",
+    "debug_mode": false,
+    "speedbrake_mode": false
+}

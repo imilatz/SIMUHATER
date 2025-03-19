@@ -1,0 +1,7 @@
+pyserial>=3.5
+vgamepad>=0.0.8
+pyvjoy>=1.0.1
+pillow>=8.0.0
+ttkbootstrap>=1.10.1
+darkdetect>=0.7.1
+pystray==0.19.4 
